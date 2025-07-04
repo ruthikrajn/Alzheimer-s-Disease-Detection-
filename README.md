@@ -1,8 +1,5 @@
 # 🧠 Alzheimer's Disease Detection Using MRI and Deep Learning
 
-### 📚 IE 7615 – Neural Network and Deep Learning  
-**Fall 2023 Final Project**  
-**Submitted to:** Jerome Braun  
 **Authors:**  
 - Ruthik Raj Nataraja – nataraja.r@northeastern.edu  
 
