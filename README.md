@@ -95,19 +95,6 @@ EfficientNetB0 significantly outperformed traditional CNN models, demonstrating 
 
 ---
 
-## 👥 Team Contributions
-
-This project was completed collaboratively by:
-- **Sabeen Mustafa (SM)**
-- **Ruthik Raj Nataraja (RRN)**
-- **Yash Rajendra Gaikwad (YG)**
-
-- Data preprocessing, modeling, training, and evaluation were done collaboratively.
-- All team members contributed equally to the project report and presentation.
-- VGG model was explored as an alternative, but not pursued further.
-
----
-
 ## ✅ Conclusion
 
 This project successfully demonstrates the application of **deep learning and transfer learning** in classifying Alzheimer’s disease stages from MRI images. **EfficientNetB0** achieved outstanding results, showcasing its potential for use in medical diagnostics. Our findings highlight the need for continued exploration in this domain to improve accuracy, interpretability, and real-world deployment.
